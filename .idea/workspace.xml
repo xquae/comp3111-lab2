@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf18b3c6-7c09-46cd-8a88-d272fb1ef00d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/comp3111-lab2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2a/Score.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2a/mainApp2a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2b/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2b/mainApp2b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2c/Charger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2c/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2c/MobileComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2c/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab2c/mainApp2c.java" afterDir="false" />
+    <list default="true" id="bf18b3c6-7c09-46cd-8a88-d272fb1ef00d" name="Changes" comment="lab2">
+      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +65,24 @@
       <updated>1758250191027</updated>
       <workItem from="1758250191979" duration="4005000" />
       <workItem from="1758254307658" duration="210000" />
-      <workItem from="1758283520439" duration="2146000" />
+      <workItem from="1758283520439" duration="2493000" />
     </task>
+    <task id="LOCAL-00001" summary="lab2">
+      <option name="closed" value="true" />
+      <created>1758286122207</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758286122207</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab2" />
   </component>
 </project>
